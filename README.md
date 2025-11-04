@@ -69,7 +69,7 @@ senha_app = "SENHA_DE_APP_AQUI"
 🧑‍💻 Autor
 
 Wenderson Eduardo
-📫https://www.linkedin.com/in/wendersoneduardo
+📫https://www.linkedin.com/in/wenderson-eduardo-142461210/
 
 📜 Licença
 
@@ -96,4 +96,5 @@ linkedin-job-bot/
 ├── main.py
 ├── README.md
 ├── requirements.txt
+
 └── vagas_linkedin.csv (gerado pelo script)
